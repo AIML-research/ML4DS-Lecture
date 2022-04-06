@@ -28,8 +28,8 @@ By the end of the course, you will have learned how to build machine learning mo
 
 | #      | Lecture | Slides|
 | :---   |    :----   | :----   | 
-| 1         | Introduction | [Introduction.pdf](https://github.com/AIML-research/ML4DS/blob/main/01.ML4DS.Introduction.pdf)       |   
-| 2         | [Getting to know your data] (https://github.com/AIML-research/ML4DS/blob/main/02.ML4DS.Data.pdf)       |
+| 1         | Introduction | [01.ML4DS.Introduction.pdf](https://github.com/AIML-research/ML4DS/blob/main/01.ML4DS.Introduction.pdf)       |   
+| 2         | Getting to know your data | [02.ML4DS.Data.pdf](https://github.com/AIML-research/ML4DS/blob/main/02.ML4DS.Data.pdf)       |
 | 3 & 4     | [Supervised learning/ Classification: Introduction & Decision Trees] () |
 
 
