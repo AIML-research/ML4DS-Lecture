@@ -4,9 +4,9 @@ ML4DS lecture WiSe21/22 @FUB
 ##About the lecture
 
 
-##Syllabus
+#Syllabus
 
 
-##Organization
+#Organization
 
-##Lectures plan
+#Lectures plan
