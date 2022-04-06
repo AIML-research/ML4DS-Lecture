@@ -26,11 +26,10 @@ By the end of the course, you will have learned how to build machine learning mo
 
 ### Lectures plan 
 
-| Lecture #      | Title | Slides     |
-| :---   |    :----   |          :--- |
-| 1      | Introduction       |   Lecture1.pdf |
-| 2      | Getting to know your data        | Lecture2.pdf  |
-| 3 & 4     | Supervised learning (classification): Introduction & Decision Trees | Lectures3_4.pdf  |
-| 5     | Supervised learning (classification): KNDs & Evaluation | Lectures3_4.pdf  |
+| #      | Lecture | 
+| :---   |    :----   | 
+| 1         | [Introduction](https://github.com/AIML-research/ML4DS/blob/main/01.ML4DS.Introduction.pdf)       |   
+| 2         | [Getting to know your data] (https://github.com/AIML-research/ML4DS/blob/main/02.ML4DS.Data.pdf)       |
+| 3 & 4     | [Supervised learning/ Classification: Introduction & Decision Trees] () |
 
 
