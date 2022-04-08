@@ -47,7 +47,7 @@ By the end of the course, you will have learned how to build machine learning mo
 | 18       |Reinforcement learning: Model free-learning| [18.ML4DS.RL(Model-free-learning)](https://github.com/AIML-research/ML4DS/blob/main/18.ML4DS.RL(Model-free-learning).pdf)|
 | 19       |Reinforcement learning: Approximate Q-learning| [19.ML4DS.RL(ApproximateQ-learning)](https://github.com/AIML-research/ML4DS/blob/main/19.ML4DS.RL(ApproximateQ-learning).pdf)|
 | 20       |High Dimensionality: Feature selection| [20.HighDim.FeatureSelection](https://github.com/AIML-research/ML4DS/blob/main/20.HighDim.FeatureSelection.pdf)|
-| 21       |High Dimensionality: Dimensionality reduction| [21.HighDim.FeatureSelection](https://github.com/AIML-research/ML4DS/blob/main/20.HighDim.FeatureSelection.pdf)|
+| 21       |High Dimensionality: Dimensionality reduction| [21.HighDim.DimReduction](https://github.com/AIML-research/ML4DS/blob/main/21.HighDim.DimReduction.pdf)|
 
 
 
