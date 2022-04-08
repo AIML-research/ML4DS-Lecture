@@ -30,7 +30,13 @@ By the end of the course, you will have learned how to build machine learning mo
 | :---   |    :----   | :----   | 
 | 1         | Introduction | [01.ML4DS.Introduction.pdf](https://github.com/AIML-research/ML4DS/blob/main/01.ML4DS.Introduction.pdf)       |   
 | 2         | Getting to know your data | [02.ML4DS.Data.pdf](https://github.com/AIML-research/ML4DS/blob/main/02.ML4DS.Data.pdf)       |
-| 3 & 4     | Supervised learning (Classification): Introduction & Decision Trees & KNNs| [03-04.ML4DS.IntroDTsKNNs.pdf](https://github.com/AIML-research/ML4DS/blob/main/03-04.ML4DS.Intro_DTs_KNNs.pdf)
+| 3 & 4     | Supervised learning (Classification): Introduction & Decision Trees & KNNs| [03-04.ML4DS.IntroDTsKNNs.pdf](https://github.com/AIML-research/ML4DS/blob/main/03-04.ML4DS.Intro_DTs_KNNs.pdf)|
 | 5         | Naive ve Bayes classifiers | [05.ML4DS.NBs.pdf](https://github.com/AIML-research/ML4DS/blob/main/05.ML4DS.NBs.pdf)       |
+| 6         | Supervisde learning (Classification): Evaluation | [065.ML4DS.Evaluation.pdf](https://github.com/AIML-research/ML4DS/blob/main/06.ML4DS.Evaluation.pdf)   |
+
+
+
+### Disclaimer
+I tried my best to cite my sources; please let me know if you think something is missing.
 
 
