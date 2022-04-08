@@ -30,10 +30,10 @@ By the end of the course, you will have learned how to build machine learning mo
 | :---   |    :----   | :----   | 
 | 1         |Introduction | [01.ML4DS.Introduction.pdf](https://github.com/AIML-research/ML4DS/blob/main/01.ML4DS.Introduction.pdf)       |   
 | 2         |Getting to know your data | [02.ML4DS.Data.pdf](https://github.com/AIML-research/ML4DS/blob/main/02.ML4DS.Data.pdf)       |
-| 3 & 4     |Supervised learning (Classification): Introduction & Decision Trees & KNNs| [03-04.ML4DS.IntroDTsKNNs.pdf](https://github.com/AIML-research/ML4DS/blob/main/03-04.ML4DS.Intro_DTs_KNNs.pdf)|
-| 5         |Supervised learning (Classification): Naive Bayes classifiers | [05.ML4DS.NBs.pdf](https://github.com/AIML-research/ML4DS/blob/main/05.ML4DS.NBs.pdf)       |
-| 6         |Supervised learning (Classification): Evaluation | [06.ML4DS.Evaluation.pdf](https://github.com/AIML-research/ML4DS/blob/main/06.ML4DS.Supervised learning.Evaluation.pdf)   |
-| 7         |Supervised learning (Classification): SVMs | [06.ML4DS.SVMs.pdf](https://github.com/AIML-research/ML4DS/blob/main/07.ML4DS.Supervised learning.SVMs.pdf)   |
+| 3 & 4     |Supervised learning (Classification): Introduction & Decision Trees & KNNs| [03-04.ML4DS.IntroDTsKNNs.pdf](https://github.com/AIML-research/ML4DS/blob/main/03-04.ML4DS.SupervisedLearning.Intro_DTs_KNNs.pdf)|
+| 5         |Supervised learning (Classification): Naive Bayes classifiers | [05.ML4DS.NBs.pdf](https://github.com/AIML-research/ML4DS/blob/main/05.ML4DS.SupervisedLearning.NBs.pdf)       |
+| 6         |Supervised learning (Classification): Evaluation | [06.ML4DS.Evaluation.pdf](https://github.com/AIML-research/ML4DS/blob/main/06.ML4DS.SupervisedLearning.Evaluation.pdf)   |
+| 7         |Supervised learning (Classification): SVMs | [06.ML4DS.SVMs.pdf](https://github.com/AIML-research/ML4DS/blob/main/07.ML4DS.SupervisedLearning.SVMs.pdf)   |
 | 8         |Supervised learning (Classification): SVMs | [06.ML4DS.SVMs.pdf](https://github.com/AIML-research/ML4DS/blob/main/07.ML4DS.SVMs.pdf)   |
 
 
