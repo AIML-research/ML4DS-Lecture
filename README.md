@@ -33,8 +33,8 @@ By the end of the course, you will have learned how to build machine learning mo
 | 3 & 4     |Supervised learning (Classification): Introduction & Decision Trees & KNNs| [03-04.ML4DS.IntroDTsKNNs.pdf](https://github.com/AIML-research/ML4DS/blob/main/03-04.ML4DS.Intro_DTs_KNNs.pdf)|
 | 5         |Supervised learning (Classification): Naive Bayes classifiers | [05.ML4DS.NBs.pdf](https://github.com/AIML-research/ML4DS/blob/main/05.ML4DS.NBs.pdf)|
 | 6         |Supervised learning (Classification): Evaluation | [06.ML4DS.Evaluation.pdf](https://github.com/AIML-research/ML4DS/blob/main/06.ML4DS.SupervisedLearning.Evaluation.pdf)|
-| 7         |Supervised learning (Classification): SVMs | [06.ML4DS.SVMs.pdf](https://github.com/AIML-research/ML4DS/blob/main/07.ML4DS.SVMs.pdf)   |
-| 8         |Supervised learning (Classification): SVMs | [06.ML4DS.SVMs.pdf](https://github.com/AIML-research/ML4DS/blob/main/07.ML4DS.SVMs.pdf)   |
+| 7         |Supervised learning (Classification): SVMs | [07.ML4DS.SVMs.pdf](https://github.com/AIML-research/ML4DS/blob/main/07.ML4DS.SVMs.pdf)   |
+| 8         |Supervised learning (Classification): Perceptron | [08.ML4DS.Perceptron.pdf](https://github.com/AIML-research/ML4DS/blob/main/08.ML4DS.Perceptron.pdf)   |
 
 
 ### Disclaimer
