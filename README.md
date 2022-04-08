@@ -43,6 +43,7 @@ By the end of the course, you will have learned how to build machine learning mo
 | 13         |Unsupervised learning (Clustering): Evaluation| [13.ML4DS.UnupervisedLearning.Clustering(Evaluation).pdf](https://github.com/AIML-research/ML4DS/blob/main/13.ML4DS.UnupervisedLearning.Clustering(Evaluation).pdf)   |
 | 14         |Unsupervised learning (Clustering): EM| [14.ML4DS.UnupervisedLearning.Clustering(EM).pdf](https://github.com/AIML-research/ML4DS/blob/main/14.ML4DS.UnupervisedLearning.Clustering(EM).pdf)   |
 | 15        |Unsupervised learning (Clustering): EM| [15.ML4DS.OutlierDetection.pdf](https://github.com/AIML-research/ML4DS/blob/main/15.ML4DS.OutlierDetection.pdf)|
+| 16 & 17       |Reinforcement learning: Introduction & MDPs| [16-17.ML4DS.RL.Intro_MDPs.pdf](https://github.com/AIML-research/ML4DS/blob/main/16-17.ML4DS.RL.Intro_MDPs.pdf)|
 
 
 
