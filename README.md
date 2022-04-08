@@ -8,7 +8,8 @@ In the *second part* of the course, we will focus on specific learning challenge
 By the end of the course, you will have learned how to build machine learning models for different problems, how to properly evaluate their performance and how to tackle specific learning challenges.
 
 
-### SyllabusSupervised learning
+### Syllabus
+- Supervised learning
 - Unsupervised learning
 - Reinforcement learning
 - Outlier detection
@@ -43,5 +44,6 @@ By the end of the course, you will have learned how to build machine learning mo
 
 ### Disclaimer
 I tried my best to cite my sources; please let me know if you think something is missing.
+
 
 
