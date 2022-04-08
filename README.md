@@ -36,6 +36,7 @@ By the end of the course, you will have learned how to build machine learning mo
 | 7         |Supervised learning (Classification): SVMs | [07.ML4DS.SVMs.pdf](https://github.com/AIML-research/ML4DS/blob/main/07.ML4DS.SVMs.pdf)   |
 | 8         |Supervised learning (Classification): Perceptron | [08.ML4DS.Perceptron.pdf](https://github.com/AIML-research/ML4DS/blob/main/08.ML4DS.Perceptron.pdf)   |
 | 9         |Supervised learning (Regression)| [09.ML4DS.Regression.pdf](https://github.com/AIML-research/ML4DS/blob/main/09.ML4DS.Regression.pdf)   |
+| 10         |Unsupervised learning (Clustering): Partinioning-based methods| [10.ML4DS.UnupervisedLearning.Clustering(Partitioning-based).pdf](https://github.com/AIML-research/ML4DS/blob/main/10.ML4DS.UnupervisedLearning.Clustering(Partitioning-based).pdf)   |
 
 
 
