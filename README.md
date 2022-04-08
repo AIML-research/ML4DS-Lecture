@@ -45,8 +45,7 @@ By the end of the course, you will have learned how to build machine learning mo
 | 15        |Unsupervised learning (Clustering): EM| [15.ML4DS.OutlierDetection.pdf](https://github.com/AIML-research/ML4DS/blob/main/15.ML4DS.OutlierDetection.pdf)|
 | 16 & 17       |Reinforcement learning: Introduction & MDPs| [16-17.ML4DS.RL.Intro_MDPs.pdf](https://github.com/AIML-research/ML4DS/blob/main/16-17.ML4DS.RL.Intro_MDPs.pdf)|
 | 18       |Reinforcement learning: Model free-learning| [18.ML4DS.RL(Model-free-learning)](https://github.com/AIML-research/ML4DS/blob/main/18.ML4DS.RL(Model-free-learning).pdf)|
-
-| 19       |Reinforcement learning: Model free-learning| [18.ML4DS.RL(Model-free-learning)](https://github.com/AIML-research/ML4DS/blob/main/18.ML4DS.RL(Model-free-learning))|
+| 19       |Reinforcement learning: Approximate Q-learning| [19.ML4DS.RL(ApproximateQ-learning)](https://github.com/AIML-research/ML4DS/blob/main/19.ML4DS.RL(ApproximateQ-learning).pdf)|
 
 
 
