@@ -49,6 +49,7 @@ By the end of the course, you will have learned how to build machine learning mo
 | 20       |High Dimensionality: Feature selection| [slides](https://github.com/AIML-research/ML4DS/blob/main/20.HighDim.FeatureSelection.pdf)|
 | 21       |High Dimensionality: Dimensionality reduction| [slides](https://github.com/AIML-research/ML4DS/blob/main/21.HighDim.DimReduction.pdf)|
 | 22 & 23 & 24       |Velocity: Stream Classification| [slides](https://github.com/AIML-research/ML4DS/blob/main/22-23-24.Velocity.StreamClassification.pdf)|
+| 25 & 6       |Velocity: Stream Clustering| [slides](https://github.com/AIML-research/ML4DS/blob/main/25-26.Velocity.StreamClustering.pdf)|
 
 
 
