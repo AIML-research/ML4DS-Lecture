@@ -42,7 +42,7 @@ By the end of the course, you will have learned how to build machine learning mo
 | 12         |Unsupervised learning (Clustering): Density-based methods| [12.ML4DS.UnupervisedLearning.Clustering(Density-based).pdf](https://github.com/AIML-research/ML4DS/blob/main/12.ML4DS.UnupervisedLearning.Clustering(Density-based).pdf)   |
 | 13         |Unsupervised learning (Clustering): Evaluation| [13.ML4DS.UnupervisedLearning.Clustering(Evaluation).pdf](https://github.com/AIML-research/ML4DS/blob/main/13.ML4DS.UnupervisedLearning.Clustering(Evaluation).pdf)   |
 | 14         |Unsupervised learning (Clustering): EM| [14.ML4DS.UnupervisedLearning.Clustering(EM).pdf](https://github.com/AIML-research/ML4DS/blob/main/14.ML4DS.UnupervisedLearning.Clustering(EM).pdf)   |
-| 15        |Unsupervised learning (Clustering): EM| [15.ML4DS.Outlier detection.pdf](https://github.com/AIML-research/ML4DS/blob/main/15.ML4DS.Outlier detection.pdf)|
+| 15        |Unsupervised learning (Clustering): EM| [15.ML4DS.OutlierDetection.pdf](https://github.com/AIML-research/ML4DS/blob/main/15.ML4DS.OutlierDetection.pdf)|
 
 
 
